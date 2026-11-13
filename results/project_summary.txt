@@ -1,0 +1,27 @@
+PROJECT: NYC Taxi Trip Analytics and Duration Prediction
+
+DATASET: NYC Yellow Taxi January 2024
+
+BIG DATA TECHNOLOGY: Apache Spark 4.0.1
+
+TOTAL CLEANED RECORDS: 2,721,809
+
+AVERAGE TRIP DISTANCE: 3.30 miles
+
+AVERAGE FARE: $18.44
+
+AVERAGE TRIP DURATION: 14.92 minutes
+
+MACHINE LEARNING MODELS:
+1. Linear Regression
+2. Random Forest Regressor
+
+LINEAR REGRESSION:
+RMSE: 7.11
+MAE: 4.13
+
+RANDOM FOREST:
+RMSE: 5.22
+MAE: 2.57
+
+BEST MODEL: Random Forest Regressor

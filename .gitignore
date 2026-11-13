@@ -1,0 +1,6 @@
+bda_env/
+__pycache__/
+*.pyc
+cleaned_taxi_data/
+linear_regression_model/
+random_forest_model/
